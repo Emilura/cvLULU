@@ -1,0 +1,59 @@
+.gris{
+    background-color: #fdf4f7;
+}
+.blanco{
+    background-color: white;
+}
+.bodyBlanco{
+    background-color: #efefef;
+}
+
+  h2 {
+    margin-bottom: 100px;
+    font-family: "Inter", sans-serif;
+    font-size: small;
+  }
+  p{
+    font-family: "Inter", sans-serif;
+    
+  }
+.profile-photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: #d2b7be;
+    margin-top: 50px;
+    border: 10px solid #d2b7be;
+   
+  }
+  .iconos{
+    border-radius: 50%;
+    border: 1px solid #ffff;
+  }
+  .circulo{
+    border-radius: 10%;
+    max-width: 300px;
+    border: 10px solid #e6ced6;
+    background-color: #e5ced6;
+  }
+  .pabajo {
+    margin-top: 200px;
+  }
+  .pabajo1-5{
+    margin-top: 120px;
+  }
+  .pabajo2 {
+    margin-top: 30px;
+  }
+  .grueso{
+    font-weight: 700;
+  }
+  .centro{
+    align-items: center;
+  }
+  .grande{
+    font-size: 50px;
+  }
+  .violeta{
+    background-color: #e5ced6;
+  }
